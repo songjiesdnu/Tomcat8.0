@@ -1,0 +1,78 @@
+2016-04-24 17:57:11,620 [localhost-startStop-1] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2016-04-24 17:57:11,855 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Registered plugin: 'com.github.pagehelper.PageHelper@2c250e09'
+2016-04-24 17:57:11,942 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed configuration file: 'class path resource [mybatis/mybatis-config.xml]'
+2016-04-24 17:57:12,072 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/BalanceRecordMapper.xml]'
+2016-04-24 17:57:12,130 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/CommentImageMapper.xml]'
+2016-04-24 17:57:12,153 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/CommentMapper.xml]'
+2016-04-24 17:57:12,166 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/CompanionMapper.xml]'
+2016-04-24 17:57:12,188 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/CustomizationMapper.xml]'
+2016-04-24 17:57:12,210 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/CustomizationProcedureMapper.xml]'
+2016-04-24 17:57:12,238 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/EntertainmentMapper.xml]'
+2016-04-24 17:57:12,255 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/FacilityMapper.xml]'
+2016-04-24 17:57:12,275 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/GoodsMapper.xml]'
+2016-04-24 17:57:12,292 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/GoodsOrderMapper.xml]'
+2016-04-24 17:57:12,308 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/GoodsPriceMapper.xml]'
+2016-04-24 17:57:12,324 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/GoodsSpecMapper.xml]'
+2016-04-24 17:57:12,342 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/HouseMapper.xml]'
+2016-04-24 17:57:12,357 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/ImagesMapper.xml]'
+2016-04-24 17:57:12,376 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/MealMapper.xml]'
+2016-04-24 17:57:12,389 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/MerchantAccountMapper.xml]'
+2016-04-24 17:57:12,404 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/MerchantBalanceMapper.xml]'
+2016-04-24 17:57:12,423 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/MerchantMapper.xml]'
+2016-04-24 17:57:12,441 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/MerchantProductMapper.xml]'
+2016-04-24 17:57:12,466 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/MessageMapper.xml]'
+2016-04-24 17:57:12,477 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/NoticeMapper.xml]'
+2016-04-24 17:57:12,493 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/NumberGeneratorMapper.xml]'
+2016-04-24 17:57:12,520 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/OperationLogMapper.xml]'
+2016-04-24 17:57:12,540 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/OperatorMapper.xml]'
+2016-04-24 17:57:12,564 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/OrderPersonMapper.xml]'
+2016-04-24 17:57:12,587 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/ProductFacilityMapper.xml]'
+2016-04-24 17:57:12,602 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/ProductGoodsMapper.xml]'
+2016-04-24 17:57:12,625 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/ProductRelationMapper.xml]'
+2016-04-24 17:57:12,641 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/RefundlogMapper.xml]'
+2016-04-24 17:57:12,662 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/RegionMapper.xml]'
+2016-04-24 17:57:12,692 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/RouteMapper.xml]'
+2016-04-24 17:57:12,720 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/RouteOrderMapper.xml]'
+2016-04-24 17:57:12,737 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/RouteThemeMapper.xml]'
+2016-04-24 17:57:12,761 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/ScheduleMapper.xml]'
+2016-04-24 17:57:12,810 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/SpotCompanionMapper.xml]'
+2016-04-24 17:57:12,830 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/SpotLocationMapper.xml]'
+2016-04-24 17:57:12,856 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/SpotMapper.xml]'
+2016-04-24 17:57:12,873 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/SpotThemeMapper.xml]'
+2016-04-24 17:57:12,889 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/StartDateMapper.xml]'
+2016-04-24 17:57:12,905 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/ThemeMapper.xml]'
+2016-04-24 17:57:12,924 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/TicketMapper.xml]'
+2016-04-24 17:57:12,942 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/TravelTimeMapper.xml]'
+2016-04-24 17:57:12,972 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/VisitorMapper.xml]'
+2016-04-24 17:57:12,989 [localhost-startStop-1] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed mapper file: 'class path resource [mapping/VisitorThemeMapper.xml]'
+2016-04-24 17:57:13,073 [localhost-startStop-1] DEBUG org.apache.shiro.spring.LifecycleBeanPostProcessor - Initializing bean [shiroDBRealm]...
+2016-04-24 17:57:13,073 [localhost-startStop-1] DEBUG org.apache.shiro.realm.AuthorizingRealm - No authorizationCache instance set.  Checking for a cacheManager...
+2016-04-24 17:57:13,073 [localhost-startStop-1] INFO  org.apache.shiro.realm.AuthorizingRealm - No cache or cacheManager properties have been set.  Authorization cache cannot be obtained.
+2016-04-24 17:57:13,754 [localhost-startStop-1] DEBUG com.smarttrip.service.base.mail.MailSender - 设置系统属性：mail.smtp.host = smtp.mxhichina.com
+2016-04-24 17:57:13,754 [localhost-startStop-1] DEBUG com.smarttrip.service.base.mail.MailSender - 准备获取邮件会话对象！
+2016-04-24 17:57:13,764 [localhost-startStop-1] DEBUG com.smarttrip.service.base.mail.MailSender - 准备创建MIME邮件对象！
+2016-04-24 17:57:14,179 [验证码repository清理线程] DEBUG com.smarttrip.platform.authcode.handler.AuthCodeHandler - 开始一次清理
+2016-04-24 17:57:14,180 [验证码repository清理线程] DEBUG com.smarttrip.platform.authcode.handler.AuthCodeHandler - 结束一次清理
+2016-04-24 17:57:14,304 [localhost-startStop-1] DEBUG org.apache.shiro.spring.web.ShiroFilterFactoryBean - Creating Shiro Filter instance.
+2016-04-24 17:57:14,324 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Creating chain [/static/**] from String definition [anon]
+2016-04-24 17:57:14,324 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Attempting to apply path [/static/**] to filter [anon] with config [null]
+2016-04-24 17:57:14,326 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Creating chain [/login] from String definition [anon]
+2016-04-24 17:57:14,326 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Attempting to apply path [/login] to filter [anon] with config [null]
+2016-04-24 17:57:14,326 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Creating chain [/login/loginSave] from String definition [anon]
+2016-04-24 17:57:14,326 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Attempting to apply path [/login/loginSave] to filter [anon] with config [null]
+2016-04-24 17:57:14,326 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Creating chain [/logout] from String definition [logout]
+2016-04-24 17:57:14,326 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Attempting to apply path [/logout] to filter [logout] with config [null]
+2016-04-24 17:57:14,327 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Creating chain [/operator/**] from String definition [authc,roles[admin]]
+2016-04-24 17:57:14,327 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Attempting to apply path [/operator/**] to filter [authc] with config [null]
+2016-04-24 17:57:14,327 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Attempting to apply path [/operator/**] to filter [roles] with config [admin]
+2016-04-24 17:57:14,327 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Creating chain [/**] from String definition [authc]
+2016-04-24 17:57:14,327 [localhost-startStop-1] DEBUG org.apache.shiro.web.filter.mgt.DefaultFilterChainManager - Attempting to apply path [/**] to filter [authc] with config [null]
+2016-04-24 17:57:35,631 [http-nio-8080-exec-2] DEBUG org.apache.shiro.web.servlet.SimpleCookie - Found 'rememberMe' cookie value [uCPD1qzY/Uo5QC3gc4WDKltkf+43kA+7LZxKwyfUPCShRAXxjZ94nYAF0ZJAMcTqeYsWbdJKyiGF3aEU+3px3AXdrN2miiiSFwIeA4eMI69OKhDi78YCYjUnvX1WUK4QdPjwbCrWaCVsHQyg03YiNNXRxpuLz1lyS8E+dFucqtlpOJ2qr01pLd/BmAQjarcjqgWby1wxE1Ciu+5LqNyOSBroZkX44aYmeR/6m+o8xBdsNBkdZ63TZ/TMXCMbF3lBoa4UGX4ALJvrfNSTR44AIBSNQPiBSxrwrUy7kIs0PBf+DxG8pe3NJjQ4uy8uTUI8Rtm8mhGyWq7l1kChuyhcLZu7/D3OyAFMyaWtT1mWtLfAHOuMPqudnm44hzddC9tkb8N9UBIRROADIayx70IE0J+wUTUiA4NcFehS9SJbnOQA9dpn1+EnKWjiz5boakpsRNv/DaZghud8zYkkvTda6e6YbHEb/axqV1DtcXHJmwsdbE0VtJdIJpcmNY2lNKOU2BWUfadGWkojWmGR7YaNIT4vEMceGYZKM4Du8RNJBHM]
+2016-04-24 17:57:35,720 [http-nio-8080-exec-2] DEBUG org.apache.shiro.mgt.DefaultSecurityManager - Found remembered PrincipalCollection.  Adding to the context to be used for subject construction by the SubjectFactory.
+2016-04-24 17:57:35,771 [http-nio-8080-exec-3] DEBUG com.smarttrip.manageweb.interceptor.XSSInterceptor - xss攻击防御-处理http请求-开始
+2016-04-24 17:57:35,771 [http-nio-8080-exec-3] DEBUG com.smarttrip.manageweb.interceptor.XSSInterceptor - xss攻击防御-处理http请求-结束
+2016-04-24 17:58:15,506 [http-nio-8080-exec-9] DEBUG com.smarttrip.manageweb.interceptor.XSSInterceptor - xss攻击防御-处理http请求-开始
+2016-04-24 17:58:15,507 [http-nio-8080-exec-9] DEBUG com.smarttrip.manageweb.interceptor.XSSInterceptor - xss攻击防御-处理http请求-结束
+2016-04-24 17:58:53,872 [http-nio-8080-exec-3] DEBUG com.smarttrip.manageweb.interceptor.XSSInterceptor - xss攻击防御-处理http请求-开始
+2016-04-24 17:58:53,872 [http-nio-8080-exec-3] DEBUG com.smarttrip.manageweb.interceptor.XSSInterceptor - xss攻击防御-处理http请求-结束
+2016-04-24 18:00:17,772 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] DEBUG org.apache.shiro.spring.LifecycleBeanPostProcessor - Destroying bean [securityManager]...
